@@ -161,8 +161,22 @@ footer div ul li a {
     color: #e62222;
 }
 
+/*Mobile large*/
+@media screen and (min-width: 576px) {
+    .social-button {
+        border-radius: 40px;
+        width: 100px;
+        height: 40px;
+    }
 
+    #image-tiramisu {
+        width: 50%;
+        float: left;
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
 
+}
 
 /*Tablet*/
 
