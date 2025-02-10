@@ -19,8 +19,17 @@ header {
     padding: 26px 0;
 }
 
+/* Header */
 body {
     background-color: #f6f5f3;
     font-family: "Montserrat", 'Helvetica Neue', serif;
+}
 
+/*Tablet*/
+
+@media screen and (min-width: 768px) {
+    header {
+        text-align: left;
+        padding-left: 26px;
+    }
 }
