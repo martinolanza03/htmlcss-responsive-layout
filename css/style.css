@@ -94,6 +94,16 @@ section.img-container ul {
         margin: 0 auto;
         width: 100%;
     }
+
+    section.img-container ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+
+    section.img-container li {
+        width: 220px;
+    }
 }
 
 /*Desktop*/
