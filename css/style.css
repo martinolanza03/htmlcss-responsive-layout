@@ -43,6 +43,7 @@ body {
 /* Container */
 
 .container {
+    max-width: 590px;
     margin: 0 auto;
     width: 100%;
     padding: 30px 20px 60px 20px;
