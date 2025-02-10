@@ -25,12 +25,17 @@ body {
     font-family: "Montserrat", 'Helvetica Neue', serif;
 }
 
+#uptitle {
+    color: #b19999;
+    text-transform: uppercase;
+}
+
 /* Container */
 
 .container {
     margin: 0 auto;
     width: 100%;
-    padding-top: 30px;
+    padding: 30px 20px 60px 20px;
 }
 
 /*Tablet*/
