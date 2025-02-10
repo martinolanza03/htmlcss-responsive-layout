@@ -89,6 +89,31 @@ hr {
     margin-bottom: 20px;
 }
 
+footer {
+    flex-direction: column;
+    display: flex;
+    background-color: #7c69a4 ;
+    color: #FFFFFF;
+    padding: 35px 0;
+    align-items: center;
+    font-size: 12px;
+    text-align: center;
+    gap: 25px;
+}
+
+
+footer div ul {
+    list-style-type: none;
+    display: flex;
+    gap: 22px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer div ul li a {
+    color: #FFFFFF;
+}
+
 
 /* Container */
 
