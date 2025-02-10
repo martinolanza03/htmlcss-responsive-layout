@@ -11,10 +11,14 @@
 
 header {
     text-align: center;
-    height: 86px;
     width: 100%;
     background-color: #FFFFFF;
     color:  #ff9614;
     font-family: "Nerko One", cursive;
     font-size: 50px;
+    padding: 26px 0;
+}
+
+body {
+    background-color: #f6f5f3;
 }
