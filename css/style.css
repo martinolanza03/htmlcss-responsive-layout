@@ -61,6 +61,15 @@ section.img-container ul {
     gap: 20px;
 }
 
+.social-button {
+    background-color: #FFFFFF;
+    width: 60px;
+    height: 47px;
+    border-radius: 40%;
+    padding: 8px 18px ;
+    border: none;
+    font-size: 16px;
+}
 
 
 /* Container */
@@ -78,14 +87,34 @@ section.img-container ul {
     margin-bottom: 35px;
 }
 
-.social {
-    background-color: #FFFFFF;
-    width: 60px;
-    height: 47px;
-    border-radius: 40%;
-    padding: 8px 18px ;
-    border: none;
+.social-container {
+    display: flex;
+    justify-content: space-between;
 }
+
+/* Social color */
+
+.fa-facebook {
+    color: #1a77f3;
+}
+
+.fa-twitter {
+    color: #009eff;
+}
+
+.fa-instagram {
+    color: #dc3d78;
+}
+
+.fa-pinterest {
+    color: #e62222;
+}
+
+.fa-youtube {
+    color: #e62222;
+}
+
+
 
 
 /*Tablet*/
