@@ -184,6 +184,18 @@ hr {
         margin-bottom: 22px;
         font-size: 24px;
     }
+
+    #image-tiramisu {
+        width: 50%;
+        float: left;
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+
+    #text-story {
+        font-size: 20px;
+    }
+    
     
 }
 
@@ -235,6 +247,10 @@ hr {
     h4 {
         margin-bottom: 22px;
         font-size: 26px;
+    }
+
+    #text-story {
+        font-size: 24px;
     }
     
 }
