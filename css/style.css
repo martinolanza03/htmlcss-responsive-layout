@@ -28,6 +28,15 @@ body {
 #uptitle {
     color: #b19999;
     text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+#title {
+    color: #4e3969;
+}
+
+.no-mobile {
+    display: none;
 }
 
 /* Container */
