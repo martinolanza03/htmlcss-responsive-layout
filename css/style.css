@@ -179,5 +179,23 @@ section.img-container ul {
         flex-direction: column;
         gap: 20px;
     }
+
+    .social-button {
+        border-radius: 40px;
+        width: 240px;
+        height: 40px;
+    }
+
+    button.social-button .hidden {
+        display: inline;
+    }
+
+    button.social-button a {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #000000;
+    }
+
     
 }
