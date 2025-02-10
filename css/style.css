@@ -6,3 +6,15 @@
     box-sizing: border-box;
 
 }
+
+/* Header */
+
+header {
+    text-align: center;
+    height: 86px;
+    width: 100%;
+    background-color: #FFFFFF;
+    color:  #ff9614;
+    font-family: "Nerko One", cursive;
+    font-size: 50px;
+}
