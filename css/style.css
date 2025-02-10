@@ -91,6 +91,7 @@ section.img-container ul {
 .social-container {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 45px;
 }
 
 /* Social color */
